@@ -1,0 +1,244 @@
+body{
+                                                 margin: 0;
+}
+
+
+.home{
+                                                 width: 100%;
+                                                 height: 100vh;
+                                                 background-color: aqua;
+                                                 background-image: url("../images/drew-coffman-1872.jpg");
+                                                 background-size: cover;
+                                                 background-position: center center;
+}
+.topnav{
+                                                 width: 90%;
+                                                 margin: auto;
+}
+.nav-image{
+                                                 float: left;
+}
+.nav-links{
+                                                 float: right;
+                                                 padding: 30px 20px;
+
+}
+.clear-fix{
+                                                 clear: both;
+}
+a{
+                                                 color: white;
+                                                 padding: 20px 20px;
+}
+.bakery{
+
+                                                 padding: 200px 0;
+                                                 width: 50%;
+margin: auto;
+text-align: center;
+color: white;
+
+}
+.bakery button{
+                                                 padding: 20px 20px;
+                                                 border-radius: 10px;
+                                                 font-weight: 600; 
+                                                 color: white; 
+                                                 border-style: solid;                             
+}
+.btn1{
+                                                 background-color: rgb(115, 72, 72);
+                                                 border-color: black;
+                                                 
+}
+.btn2{
+                                                 background-color: transparent;
+                                                 border-color: white;
+}
+.who-are{
+                                                 width: 90%;
+                                                 margin: auto;
+                                                 padding: 60px 0;
+                                                 
+                                                 
+}
+.who-img{
+                                                 width: 45%;
+                                                 float: left;
+                                                 
+
+}
+.who-img img{
+                                                 width: 100%;
+}
+.who-p
+{ 
+
+                                                 padding: 60px 60px;
+                                                float: left;
+                                                 width: 45%;
+                                  
+
+}
+.who-p p{
+                                                 font-weight: 600;
+}
+.lists{
+                                                 width: 90%;
+
+}
+.lists ul{
+                                                 list-style: none;
+}
+.list1 img{
+
+                                                 width: 30px;
+                                                 
+}
+.lists .list1{
+                                                 width: 10%;
+                                                 float: left;
+}
+.lists .list2{
+                                                 font-size: larger;
+                                                 width: 90%;
+                                                 float: left;
+}
+.lists .list1 li{
+                                                 padding:5px 0;
+}
+
+.lists .list2 li{
+                                                 padding:10px 0;
+}
+
+.location , .contact-info {
+                                                 width: 100%;
+                                                 background-color: #f8f8f8;
+}
+.location .center{
+                                                 width: 80%;
+                                                 margin: auto;
+}
+
+/*ask menisy about padding*/
+.location .loc-info{
+                                                 width: 40%;
+                                                 padding-top: 200px;
+                                                 padding-right: 20px;
+                                                 
+
+                                                 float: left;
+}
+.location .loc-image{
+                                                 width: 50%;
+                                                 float: right;
+}
+.location .loc-image img{
+                                                 width: 100%;
+}
+
+.our-baking{
+                                                 width: 90%;
+                                                 margin: auto;
+}
+.baking-info{
+                                                 width: 60%;
+                                                 margin: auto;
+                                                 
+                                                 text-align: center;
+                                                 padding: 20px 0;
+}
+.baking-images{
+                                                 width: 90%;
+                                                 margin: auto;
+
+}
+.baking-images .item{
+                                                 width: 30%;
+                                                 text-align: center;
+                                                 padding: 20px 20px;
+                                                 float: left;
+
+}
+.baking-images .item img{
+                                                 width:100%
+}
+
+
+.container{
+                                                 width: 90%;
+                                                 margin: auto;
+}
+.container .con1{
+                                                 width: 40%;
+                                                 padding: 60px 20px;
+                                                 
+                                                 float: left;
+}
+.container .map{
+                                                 width: 50%;
+                                                 padding: 20px 0;
+                                                 float: left;
+}
+.frame{
+                                                 width: 90%;
+                                                                                  height: 500px;
+}
+.last{
+                                                 width: 100%;
+                                                 background-color: #403d38;
+                                                 padding: 60px 30px;
+                                                 color: gray;
+}
+.container2{
+                                                 width: 80%;
+                                                 margin: auto;
+}
+.container2 .us{
+                                                 width: 25%;
+                                                 padding: 20px 10;
+                                                 float: left; 
+}
+.us ul{ 
+                                                 list-style: none;
+}
+.us .ul1{
+                                                 width: 50%;
+                                                 float: left;
+
+}
+.us .ul2{
+                                                 width: 50%;
+                                                 float: left;
+}
+.us ul li img{
+                                                 width: 30px;
+}
+.end{
+                                                 padding: 60px 20px;
+width: 100%;
+background-color: black;}
+.end .imgdiv , .end1 {
+
+                                                 text-align: center;
+                                                 width: 40%;
+                                                 margin: auto;
+}
+.end .imgdiv img{
+                                                 width:100%;
+
+}
+
+  
+.end1 span{
+                                                 color: gray;
+}
+
+.us .ul2 li , .us .u li{
+                                                 padding-bottom: 5px;
+                                                 border-bottom: 1px solid black;
+}
+.last h3{
+                                                 color: white;
+}
